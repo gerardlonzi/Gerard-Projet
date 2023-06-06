@@ -1,2 +1,2 @@
-# Gerard-Projet
-2eme jour d'etudes de git
+suites sur les bases de git
+notion de referencement local et depots local.
